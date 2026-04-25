@@ -2,7 +2,7 @@ Please download & review the original add-on, by Maurizio Memoli, for free on Gu
 
 Fork of MeshDataTransfer Blender addon under the GPL Blender license, [see](https://www.blender.org/about/license/).
 
-_This fork adds multilingual UI support and fixes a circular import bug that prevented the addon from loading in Blender 4.2+._
+_This fork adds multilingual UI support._
 
 ## Version
 2.1.0 — Translation Fork by FemKiwii
